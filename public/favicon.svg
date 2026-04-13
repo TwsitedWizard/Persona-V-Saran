@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- Outer red shard -->
+  <polygon points="30,10 240,40 210,240 10,210" fill="#FF0000" />
+  
+  <!-- Inner black shard -->
+  <polygon points="40,20 225,48 200,225 25,195" fill="#111111" />
+  
+  <!-- White sharp 'S' -->
+  <g transform="skewX(-15) translate(35, 0)">
+    <!-- Top horizontal -->
+    <polygon points="80,60 180,60 175,90 75,90" fill="#FFFFFF" />
+    <!-- Top-left vertical -->
+    <polygon points="75,60 105,60 90,135 60,135" fill="#FFFFFF" />
+    <!-- Middle horizontal -->
+    <polygon points="60,130 160,130 155,160 55,160" fill="#FFFFFF" />
+    <!-- Bottom-right vertical -->
+    <polygon points="155,130 185,130 170,205 140,205" fill="#FFFFFF" />
+    <!-- Bottom horizontal -->
+    <polygon points="40,195 140,195 135,225 35,225" fill="#FFFFFF" />
+  </g>
+
+  <!-- Accent shards inside the container -->
+  <polygon points="175,40 195,40 190,60 170,60" fill="#FF0000" />
+  <polygon points="35,215 50,215 45,230 30,230" fill="#FF0000" />
+</svg>
