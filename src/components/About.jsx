@@ -47,6 +47,13 @@ const publications = [
     status: 'PUBLISHED',
     tags: ['ML', 'CLASSIFICATION', 'AGRICULTURE AI'],
   },
+  {
+    fileTag: '[PAPER_03] // INDIACOM 2026',
+    title: 'Evaluating U2-Net and DeepLabV3 Architectures for Low-Resource Vatteluttu Glyph Segmentation',
+    venue: 'Academic Publication',
+    status: 'PUBLISHED',
+    tags: ['ML/AI', 'CLASSIFICATION', 'COMPUTER VISION'],
+  },
 ]
 
 /* ──────────────────────────────────────────────
