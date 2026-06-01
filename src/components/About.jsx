@@ -297,7 +297,7 @@ const PublicationsBadge = ({ delay = 0, isOpen, onToggle, onHoverStart, onHoverE
                 className="font-heading text-4xl md:text-5xl lg:text-6xl text-white group-hover:text-p5-red transition-colors duration-150"
                 style={{ transform: 'skewX(-3deg)' }}
               >
-                02
+                03
               </div>
               <div
                 className="font-mono text-[9px] md:text-[10px] tracking-[0.25em] text-gray-300 group-hover:text-p5-charcoal uppercase mt-1 transition-colors duration-150"
